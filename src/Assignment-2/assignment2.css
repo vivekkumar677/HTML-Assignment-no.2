@@ -29,7 +29,7 @@ nav{
 }
 aside{
     width: 20%;
-    padding-left: 15px;
+    padding-left: 20px;
     margin-top: 10px;
     float: left;
     font-style: italic;
@@ -55,7 +55,7 @@ footer{
     border-style: solid; 
     text-align: center; 
     height: 30%;
-} 
+}
 
 /* #container{
     margin: 50px;
