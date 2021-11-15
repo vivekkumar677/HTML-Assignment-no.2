@@ -1,7 +1,77 @@
-/* Our CSS file. */
-
+/* Our CSS file.*/
 
 .container, .content {
-width: 100%;
-height: 100%;
+    width: 100%;
+    height: 100%;
 }
+img{
+    padding: 5px;
+    margin: 10px;
+    max-height:10%;
+    max-width: 20%;
+    
+}
+.header-img{
+    margin: 2px;
+    max-height:35%;
+    max-width: 30%;
+}
+.header-input{
+    float: right;
+    margin: 10px;
+    margin-top: -10px;
+    max-height:35%;
+    max-width: 30%;
+}
+nav{
+    max-width: 40%;
+    margin: auto;
+}
+aside{
+    width: 20%;
+    padding-left: 20px;
+    margin-top: 10px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+    border-style:solid;
+    border-color: gray ;
+    border-width: 3px;
+}
+li{
+    padding: 13px;
+}
+.post-img{
+    max-width: 15%;
+    max-height: 15%;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 23px;
+    align-items: center;
+    border: 1px black solid;
+}
+footer{
+    margin-top:10px; 
+    border-style: solid; 
+    text-align: center; 
+    height: 30%;
+}
+
+/* #container{
+    margin: 50px;
+    border: 1px solid;
+}
+header{
+    background-color: aquamarine;
+    margin: 20px;
+}
+.header-section {
+    display: inline-block;
+}
+.header-section img{
+    width: 100px;
+    height: 100px;
+}
+.header-section:nth-child(2){
+    float: right;
+} */
