@@ -1,4 +1,4 @@
-/* Our CSS file. */
+/* Our CSS file.*/
 
 .container, .content {
     width: 100%;
@@ -55,4 +55,23 @@ footer{
     border-style: solid; 
     text-align: center; 
     height: 30%;
+} 
+
+/* #container{
+    margin: 50px;
+    border: 1px solid;
 }
+header{
+    background-color: aquamarine;
+    margin: 20px;
+}
+.header-section {
+    display: inline-block;
+}
+.header-section img{
+    width: 100px;
+    height: 100px;
+}
+.header-section:nth-child(2){
+    float: right;
+} */
