@@ -5,3 +5,21 @@
 width: 100%;
 height: 100%;
 }
+.container{
+    display: flex;
+}
+.container > div{
+    margin: 10px;
+    display: inline-block;
+}
+.img-content{
+    width: 100%;
+}
+.paragraph{
+    margin-top: 10px;
+    text-align: center;
+    padding: 7% 8%;
+    font-style: italic;
+    font-size: larger;
+    color: blueviolet;
+}
