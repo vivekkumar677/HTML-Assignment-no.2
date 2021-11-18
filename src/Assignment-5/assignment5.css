@@ -41,6 +41,9 @@ body{
     border: none;
     font-weight: bold;
 }
+.card button:hover{
+    background-color: peru;
+}
 div .card-2{
     padding-top: 5%;
 }
@@ -79,4 +82,7 @@ div .card-2{
     color: white;
     border: none;
     font-weight: bold;
+}
+.card-2 button:hover{
+    background-color: peru;
 }
